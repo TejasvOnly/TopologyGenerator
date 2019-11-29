@@ -1,0 +1,30 @@
+﻿  Source.cpp
+D:\source\repos\TopologyGenerator\Source.cpp(17,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(18,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(27,23): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(27,19): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(29,48): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(29,23): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(29,19): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(55,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(91,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(130,39): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(184,23): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(189,24): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(203,24): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(291,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(340,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(340,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(341,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(342,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(345,27): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(345,19): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(347,27): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(347,19): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(348,32): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(354,32): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+D:\source\repos\TopologyGenerator\Source.cpp(366,22): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(371,21): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(375,21): warning C4018: '<': signed/unsigned mismatch
+D:\source\repos\TopologyGenerator\Source.cpp(399,21): warning C4018: '<': signed/unsigned mismatch
+  TopologyGenerator.vcxproj -> D:\source\repos\TopologyGenerator\Debug\TopologyGenerator.exe
