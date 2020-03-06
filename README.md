@@ -1,6 +1,6 @@
 # TopologyGenerator
 A topology generator for NS3 built on [olcpixelgameengine](https://github.com/OneLoneCoder/olcPixelGameEngine) for College Project.
-This program generates a code file based on user's created topology which can be compiled in NS3. This program is by no means finished or optimized, This is just a minor project.
+This program generates a code file based on user's created topology which can be compiled in NS3. This software is by no means finished or optimized, This is just a minor project.
 
 
 
